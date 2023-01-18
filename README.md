@@ -1,6 +1,6 @@
 # Web-Group-Project
 
-Selected Title: ""
+Selected Title: "Simren Liyu Cake"
 
 Group Members
 1. Metsakal Zeleke  UGR/1027/13  Section 2
