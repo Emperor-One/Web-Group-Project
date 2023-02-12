@@ -29,3 +29,5 @@ Our end-points: root url ('localhost:3001')
           
           */admin/login - this is where the admins sign in
 
+
+the authentication part and jwt strategies found in the auth folder
