@@ -15,6 +15,7 @@ For our project we decided to use an SQLite database. The two major reasons that
         2 ) The entities in our projects have strong relationship among themselves thus a relational database managment system is suitable for our scenario.
 
 Our end-points: root url ('localhost:3001')
+          
           */cakes - returns all cakes available in inventory
           */cakes/create - creates(adds) a new cake to the inventory
           */cakes/upload?id = <id> - uploads the image of the specified cake
