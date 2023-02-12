@@ -10,7 +10,9 @@ Group Members
 
 
 We have decided to use SQLite database for two reasons:
-              1 ) Because it is a self contained database which means that you won't have to host anything when you clone our project. It will work right of the bat.                   2 ) The entities in our projects have strong relationship among themselves thus a relational database managment system is suitable for our scenario.
+              
+        1 ) Because it is a self contained database which means that you won't have to host anything when you clone our project. It will work right of the bat.           
+        2 ) The entities in our projects have strong relationship among themselves thus a relational database managment system is suitable for our scenario.
 
 Our end-points: root url ('localhost:3001')
           */cakes - returns all cakes available in inventory
