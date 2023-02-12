@@ -19,7 +19,7 @@ Our end-points: root url ('localhost:3001')
           */cakes - returns all cakes available in inventory
           */cakes/create - creates(adds) a new cake to the inventory
           */cakes/upload?id = <id> - uploads the image of the specified cake
-          */cakes/{id}/update - updates the price or description based on the values found in the request body
+          */cakes/{id}/update - updates the price or description of the spacified cake based on the values found in the request body
           
           */messages - fetches all messages(comments) sent from customers
           */messages/create - helps user leave(send) comments to the owners
