@@ -9,7 +9,7 @@ Group Members
 4. Tinsae Shemalise UGR/6075/13 Section 2
 
 
-We have decided to use SQLite database for two reasons:
+For our project we decided to use an SQLite database. The two major reasons that drove us to do so are as follows:
               
         1 ) Because it is a self contained database which means that you won't have to host anything when you clone our project. It will work right of the bat.           
         2 ) The entities in our projects have strong relationship among themselves thus a relational database managment system is suitable for our scenario.
